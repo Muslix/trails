@@ -3872,3 +3872,7 @@ dynu.org
 # Reference: https://www.virustotal.com/gui/domain/theoceanforest.com/relations
 
 theoceanforest.com
+
+# Reference: https://www.virustotal.com/gui/domain/ddns.news/relations
+
+ddns.news
