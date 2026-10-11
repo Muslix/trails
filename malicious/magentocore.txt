@@ -15414,6 +15414,7 @@ wsc.webmetricflow.com
 # Reference: https://app.validin.com/detail?type=ip&find=195.242.110.0%2F24#tab=resolutions (# 2025-02-16)
 # BANNER_0_HASH-HOST=b7580008e32aa5a44bff28035ebde748
 
+180smoke.click
 acrylicform.com
 actless.pro
 aurex.lol
@@ -15448,6 +15449,7 @@ fovex.bond
 geitec.shop
 georgette-klinger.icu
 gibson-athletic.icu
+global-tickets.xyz
 glogg.cfd
 gtrpoot.site
 hexani.sbs
@@ -15513,6 +15515,7 @@ novyra.autos
 nyphera.live
 nyrox.baby
 nythera.bond
+nyxar.website
 nyxion.cfd
 nyxtron.online
 olivara.bond
@@ -15630,6 +15633,7 @@ xyven.lol
 zanoro.biz
 zareon.xyz
 zentiq.xyz
+zerak.online
 zerakos.bond
 zerion.click
 zerion.sbs
@@ -15641,6 +15645,7 @@ zoltarq.rest
 zorvane.online
 zorven.sbs
 zypher.cfd
+zypher.sbs
 zyphor.rest
 zyphora.rest
 zyqro.baby
@@ -15649,11 +15654,13 @@ zyrok.website
 zyrox.sbs
 zytron.click
 zyvox.biz
+cdn.180smoke.click
 cdn.ewitool.sbs
 cdn.fastec.fun
 cdn.feeimob.store
 cdn.feopewq.sbs
 cdn.geitec.shop
+cdn.global-tickets.xyz
 cdn.gtrpoot.site
 cdn.houdite.online
 cdn.infrecot.fun
@@ -15669,6 +15676,7 @@ cdn.teoyey.online
 cdn.vrykon.xyz
 cdn.vulerloq.store
 cdn.zethrax.rest
+qc.180smoke.click
 
 # Reference: https://x.com/sdcyberresearch/status/1891514677319942233
 # Reference: https://www.virustotal.com/gui/ip-address/77.238.228.157/relations
