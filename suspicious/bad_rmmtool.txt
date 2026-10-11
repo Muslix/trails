@@ -24924,3 +24924,8 @@ xn--24-vlc0bxa.xn--p1ai
 ylpcrepairs.xyz
 z4p.lol
 zillionways.icu
+
+# Reference: https://www.virustotal.com/gui/ip-address/104.251.180.99/relations
+
+104.251.180.99:8040
+104.251.180.99:8041
