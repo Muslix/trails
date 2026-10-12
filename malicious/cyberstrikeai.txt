@@ -1849,6 +1849,7 @@ allkmxf.cn
 api.shanzjj.top
 api.sloe.de5.net
 api.yanyujialan.cn
+apt-cy.zsggp.cc
 aw766.eu.org
 azuregateway-65a6006d-af16-42f9-8885-1bbafd2c19d3-68776cd4b91d.vpn.azure.com
 banggood.cc
@@ -2000,3 +2001,4 @@ yishuguo.imwork.net
 zerodusk.online
 zhuce001.de5.net
 zhuce0417003.cc.cd
+zsggp.cc
