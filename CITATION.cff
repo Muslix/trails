@@ -1,0 +1,24 @@
+# YAML 1.2
+---
+cff-version: 1.2.0
+message: "If you use this data, please cite it using these metadata."
+title: "Maltrail Trails"
+type: dataset
+authors:
+  -
+    family-names: Kasimov
+    given-names: Mikhail
+  -
+    family-names: Stampar
+    given-names: Miroslav
+    orcid: "https://orcid.org/0000-0002-2662-5469"
+abstract: "Static detection content for Maltrail: malicious and suspicious domains, URLs and IP addresses, sorted into threat classes and attributed to the reports they were extracted from."
+repository: "https://github.com/stamparm/trails"
+url: "https://github.com/stamparm/trails"
+license-url: "https://github.com/stamparm/trails/blob/main/LICENSE.md"
+keywords:
+  - threat intelligence
+  - indicators of compromise
+  - malware
+  - blocklist
+...
