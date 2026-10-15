@@ -1828,6 +1828,10 @@ yxc1.lusy.ink
 http://51.144.45.141
 thexfil.fit
 
+# Reference: https://x.com/Fact_Finder03/status/2110672279390572665
+
+stepm2.bizcommerce.com.br
+
 # Generic
 
 /evilginx-linux-amd64.tar.gz
