@@ -19304,6 +19304,15 @@ setpayto.pw
 spmolli.com
 vchoisfa.com
 
+# Reference: https://x.com/ctrlaltintel/status/2110327184082731052
+
+144.172.118.80:443
+gfhiko.xyz
+google-ad-analytics.com
+ms-telemetry.us
+ssl-certificate-verify.com
+update.ssl-certificate-verify.com
+
 # Generic
 
 /assets/lfg.js
