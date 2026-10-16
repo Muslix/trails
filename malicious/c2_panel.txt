@@ -1834,7 +1834,7 @@ http://87.58.154.153
 
 188.34.199.126:8080
 
-# Referenmce: https://x.com/Fact_Finder03/status/2110956990654775583
+# Reference: https://x.com/Fact_Finder03/status/2110956990654775583
 
 164.68.116.243:5000
 
