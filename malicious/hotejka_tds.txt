@@ -1,0 +1,29 @@
+# Copyright (c) 2014-present Maltrail developers (https://github.com/stamparm/trails/)
+# See the file 'LICENSE.md' for copying permission
+
+# Aliases: roi777
+
+# Reference: https://twitter.com/p0x53/status/1420758015884488711
+# Reference: https://x.com/unmaskparasites/status/2111148395159261296
+# Reference: https://www.infoblox.com/blog/threat-intelligence/inside-help-tds-hotejka-cloudflare-pages-and-predictive-detection/
+
+arrow-berry-gem.pages.dev
+ashen-drift-stone.pages.dev
+fosetya.shop
+goalods.lol
+hotcname.help
+hotejka.com
+hotejka.ink
+hotns.rest
+linen-thorn-wild.pages.dev
+pearl-signal-comet.pages.dev
+roi-traffic.icu
+roi777.com
+roi777.online
+solar-cloud-branch.pages.dev
+sun-sky-calm.pages.dev
+trixsolvesxa.shop
+usa.on1xvpn.com
+usa.on1xvpn.ru
+varbani.com
+zylvantrexor.lol
