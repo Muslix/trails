@@ -9,6 +9,8 @@
 
 arrow-berry-gem.pages.dev
 ashen-drift-stone.pages.dev
+cybertoolbox.shop
+digitalgearshop.shop
 fosetya.shop
 goalods.lol
 hotcname.help
@@ -17,11 +19,13 @@ hotejka.ink
 hotns.rest
 linen-thorn-wild.pages.dev
 pearl-signal-comet.pages.dev
+quantumwares.shop
 roi-traffic.icu
 roi777.com
 roi777.online
 solar-cloud-branch.pages.dev
 sun-sky-calm.pages.dev
+technomarkethq.shop
 trixsolvesxa.shop
 usa.on1xvpn.com
 usa.on1xvpn.ru
