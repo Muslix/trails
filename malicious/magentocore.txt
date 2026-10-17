@@ -5768,10 +5768,6 @@ webstatistisc.org
 proxy.cdn-bootstrapcdn.com
 store.cdn-bootstrapcdn.com
 
-# Reference: https://twitter.com/p0x53/status/1420758015884488711
-
-roi-traffic.icu
-
 # Reference: https://www.virustotal.com/gui/ip-address/139.59.66.9/relations
 # Reference: https://www.virustotal.com/gui/ip-address/179.43.160.43/relations
 
