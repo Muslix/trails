@@ -5133,9 +5133,12 @@ mnaxv2amcoysm63cdjtjmfown65muwicvle4n3cxjxp6azsyphe4k5ad.onion
 91.214.78.71:3000
 
 # Reference: https://x.com/Fact_Finder03/status/2059520666798555253
+# TITLE-HOST/IP=Вход | stealer.in
 
 http://85.192.30.66
+doubelgame.ru
 stealer.in
+w0wtickets.com
 
 # Reference: https://x.com/Fact_Finder03/status/2061062638432579626
 
