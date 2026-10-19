@@ -18448,6 +18448,20 @@ w8p2zemrxkgbqum.icu
 web.safcheck.shop
 xorados.com
 
+# Reference: https://x.com/AleandroSy/status/2111979216803688901
+# Reference: https://x.com/AleandroSy/status/2111979258901913650
+
+fog.crossroadchix.com
+hail.cocova.co
+lynx.dolcefantasia.us
+mug.crossroadchix.com
+raft.cocova.co
+rain.dolcefantasia.us
+ruby.cocova.co
+sand.cocova.co
+sky.dolcefantasia.us
+zinc.cocova.co
+
 # Generic
 
 /clickfix-callback
