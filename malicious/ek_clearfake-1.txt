@@ -17,6 +17,7 @@ anlytic-js-cloud.beer
 auth-clo-id.cc
 auth-code-check.info
 auth-code-verif.beer
+auth-code.nvc-info.beer
 auth-id-browser.info
 authorization-cdn-press-enter.info
 authorization-code-cdn.info
@@ -34,8 +35,11 @@ bootstrup-framework-js.beer
 bpcdn.mooo.com
 brows-check.codes
 browscheck.codes
+browse-id-enter.codes
 browse-veriid.beer
 browseid.codes
+caffe-img.com
+caffe-store-like.beer
 cdn-rcs-cloud.beer
 cdn-verification-cloud.boats
 celtabet-guncelgiris-qo.icu
@@ -47,11 +51,13 @@ clainasns.beer
 claudverification-id.beer
 claufancdn.beer
 clhfgcomacdn.beer
+cloud-browse.codes
 cloud.edns-server.cfd
 cloudeccentric.cc
 clouderfaster.cc
 clouderrtufjcb.cc
 code-verification-js.beer
+code.nvc-info.beer
 code.verification-claude-cdn.beer
 codecerification.beer
 cpcalendars.hata.club
@@ -86,6 +92,7 @@ infociganka.cc
 interesting-margulis.158-94-208-87.plesk.page
 iseeyouballs.beer
 istounscnnd.beer
+jscdncloude.beer
 ladydosug.live
 ladydosug.love
 ladydosug.top
@@ -107,6 +114,7 @@ nshtjscdn.beer
 nsserv-bootstru.beer
 nstdcs.beer
 nvbfcdnclaud.beer
+nvc-info.beer
 orjinal-giris-aff26.vip
 sane-cdn-js.beer
 sekabet-orijinal.vip
@@ -137,6 +145,7 @@ verif-key-code.info
 verification-claude-cdn.beer
 verification-code-js.beer
 verificationscodes.beer
+verifing-server.codes
 verifycloudfare.com
 verifyrecapcha.info
 viscdnclaud.beer
