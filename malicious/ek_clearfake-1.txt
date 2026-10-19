@@ -18407,6 +18407,12 @@ violea.click
 voreimatt.com
 year.calvinpreschooloffice.com
 
+# Reference: https://x.com/AleandroSy/status/2111979216803688901
+# Reference: https://www.urlcheckup.com/result/01a1514d-6b6e-707d-937d-9229d20c7631
+
+javascript.skin
+xorados.com
+
 # Generic
 
 /clickfix-callback
