@@ -1853,6 +1853,11 @@ borzbat.ru
 notfraud.xyz
 c2.notfraud.xyz
 
+# Reference: https://x.com/JustWantToQ1/status/2112087497379602503
+# TITLE-HOST/IP=登录 — C2 管理面板
+
+103.112.99.119:8443
+
 # Generic
 
 /admin_123/auth.php
