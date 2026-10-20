@@ -18505,6 +18505,11 @@ mttraf.com
 mttraf.top
 soxy7.live
 
+# Reference: https://x.com/Malwarehunterr/status/2112456426862076164
+
+microsoftcloudverification.com
+agahamlwbxqqgnrcczph.supabase.co
+
 # Generic
 
 /clickfix-callback
