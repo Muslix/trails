@@ -18506,7 +18506,10 @@ mttraf.top
 soxy7.live
 
 # Reference: https://x.com/Malwarehunterr/status/2112456426862076164
+# TITLE-HOST/IP=Microsoft Verification
 
+http://91.92.242.215
+91.92.242.215:443
 agahamlwbxqqgnrcczph.supabase.co
 api-xdark.com
 atocha-cloud.com
@@ -18514,11 +18517,19 @@ atocha-cloud.icu
 atocha-cloud.net
 atocha.cc
 atocha.cyou
+brewerscience.pages.dev
 es.xapix.one
+fleischer-chb.co
 ibercaja.xapix.one
+m-static-m3138281.rmsimekhagh.online
 microsoftcloudverification.com
+moisecuros-strudel-d365-nougat-7c34b7.netlify.app
+new-technoworld.org
 optima.xapix.one
 piraeusbank.xapix.one
+tearns-invitation.io
+tearns-invitation.org
+tearns-invite.cc
 traficweb.top
 vairagyayoga.web-site.live
 visitflox.dad
