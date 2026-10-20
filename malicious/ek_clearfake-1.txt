@@ -18507,8 +18507,24 @@ soxy7.live
 
 # Reference: https://x.com/Malwarehunterr/status/2112456426862076164
 
-microsoftcloudverification.com
 agahamlwbxqqgnrcczph.supabase.co
+api-xdark.com
+atocha-cloud.com
+atocha-cloud.icu
+atocha-cloud.net
+atocha.cc
+atocha.cyou
+es.xapix.one
+ibercaja.xapix.one
+microsoftcloudverification.com
+optima.xapix.one
+piraeusbank.xapix.one
+traficweb.top
+vairagyayoga.web-site.live
+visitflox.dad
+web-site.live
+xapix.one
+zi.web-site.live
 
 # Generic
 
