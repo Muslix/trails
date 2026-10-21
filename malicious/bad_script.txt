@@ -10405,6 +10405,28 @@ drvdb9rcebidk.cloudfront.net
 /assets/index-DmsF7J6g.js
 /index-DmsF7J6g.js
 
+# Reference: https://x.com/volrant136/status/2112916291212251643
+# Reference: https://www.infrahunter.com/research/inside-attacker-toolkit-targeting-vietnam-government-networks
+
+/attack_baocao.py
+/auto_shell.py
+/cp_91843.py
+/cp_91843_p8.py
+/cve_50751.py
+/minio_backdoor.sh
+/mofa_deep2.py
+/mofa_dnn.py
+/mofa_gql.py
+/mofa_gql2.py
+/mofa_rce3.py
+/mofa_sp2010.py
+/mofa_sp_exploit.py
+/redirect_ssrf.log
+/rogue_idp.py
+/scan_kc.py
+/scg_exploit.py
+/ssrf_redir.py
+
 # Generic
 
 /5c0ca79.php
