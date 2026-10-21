@@ -18540,6 +18540,13 @@ web-site.live
 xapix.one
 zi.web-site.live
 
+# Reference: https://x.com/Malwarehunterr/status/2112856961972916551
+
+lopog.sonicanimehub.cfd
+segatvlegends.cfd
+sonicanimehub.cfd
+support-apple-in.live
+
 # Generic
 
 /clickfix-callback
