@@ -10427,6 +10427,11 @@ drvdb9rcebidk.cloudfront.net
 /scg_exploit.py
 /ssrf_redir.py
 
+# Reference: https://x.com/malwrhunterteam/status/2113209694240317937
+
+/dsafsrew.ps1
+/rfgregsedtgeaf.ps1
+
 # Generic
 
 /5c0ca79.php
