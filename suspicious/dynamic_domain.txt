@@ -3876,3 +3876,7 @@ theoceanforest.com
 # Reference: https://www.virustotal.com/gui/domain/ddns.news/relations
 
 ddns.news
+
+# Reference: https://www.virustotal.com/gui/domain/hyperhost.icu/relations
+
+hyperhost.icu
