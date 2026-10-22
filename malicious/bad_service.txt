@@ -5285,3 +5285,14 @@ free-stresser.com
 eclipsestress.st
 pingl.vip
 test.eclipsestress.st
+
+# Reference: https://x.com/BlinkzSec/status/2113328067586494818
+# TITLE-HOST/IP=Privatestress.ru — Professional Load Testing & IP Stresser
+# TITLE-HOST/IP=Privatestress.ru — Professional Load Testing
+
+94.183.174.91:5000
+privatestress.com
+privatestress.icu
+privatestress.pw
+privatestress.ru
+privatestress.st
