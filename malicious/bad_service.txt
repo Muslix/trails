@@ -5296,3 +5296,8 @@ privatestress.icu
 privatestress.pw
 privatestress.ru
 privatestress.st
+
+# Reference: https://x.com/malwrhunterteam/status/2113230689403330893
+# TITLE-HOST/IP=Dragon Stresser — Control Center
+
+176.65.132.7:5000
