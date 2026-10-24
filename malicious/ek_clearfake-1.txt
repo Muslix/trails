@@ -18745,6 +18745,36 @@ wrestpopdownloadnow.monster
 yourpopisreadyforload.monster
 zoompopsecretfilefast.monster
 
+# Reference: https://x.com/Malwarehunterr/status/2113695797900677444
+# BANNER_0_HASH-HOST=9c74b1fb74dcf2a7de878f0022746972
+# BODY_SHA1-HOST=6e285511c0947c65e53953551154bd9ba14e6167
+# HEADER_HASH-HOST=e5c0283a6818e241b985
+
+antibot-linkedin.com
+captcha-verify-now.com
+capture-verify.shop
+cryptoport.online
+cryptopost.site
+cryptorock.online
+cryptoroll.store
+hikvision.fit
+investario.store
+investbuy.site
+investmao.site
+investpost.site
+investroll.site
+investsell.site
+lbmie.top
+lnkxa.com
+mail.hikvision.fit
+maildeveloper.site
+open-graph.cloud
+opengraph.vip
+tedbaker.world
+trainworld.shop
+verifyses.com
+zsenl.com
+
 # Generic
 
 /clickfix-callback
