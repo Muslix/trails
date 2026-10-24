@@ -21009,6 +21009,7 @@ test.m-afee.com
 # Reference: https://www.virustotal.com/gui/ip-address/135.125.135.44/relations
 # Reference: https://www.virustotal.com/gui/ip-address/54.37.5.34/relations
 
+aamegwage.live
 abatillcome.live
 abstrypup.live
 actuserrush.live
@@ -21097,6 +21098,7 @@ coolhitup.live
 coparkpaid.live
 copefootvice.live
 copmedloss.live
+corecoathe.top
 corselfcop.live
 corsicktalk.live
 cowdenala.live
@@ -21191,6 +21193,7 @@ flatfoxaa.live
 flatrentsaw.live
 fluworddel.live
 fournilpool.live
+friendsoffriends.fun
 fromdistad.live
 frylanduh.live
 funashtank.live
@@ -21760,6 +21763,7 @@ http://104.248.113.7
 http://104.248.231.46
 http://134.122.115.135
 http://134.122.20.7
+http://134.122.25.149
 http://134.122.27.185
 http://134.122.4.27
 http://134.209.126.5
@@ -21769,12 +21773,15 @@ http://134.209.217.62
 http://134.209.72.167
 http://137.184.117.176
 http://137.184.130.7
+http://137.184.151.46
 http://137.184.155.249
 http://137.184.187.161
 http://137.184.188.10
 http://137.184.208.66
 http://137.184.209.180
 http://137.184.218.11
+http://137.184.23.55
+http://137.184.24.230
 http://137.184.30.10
 http://137.184.53.106
 http://137.184.54.0
@@ -21790,11 +21797,13 @@ http://143.198.76.124
 http://143.244.171.115
 http://143.244.175.139
 http://146.190.211.227
+http://146.190.219.105
 http://146.190.223.101
 http://146.190.75.50
 http://147.182.185.30
 http://147.182.186.14
 http://147.182.220.163
+http://147.182.221.81
 http://150.171.109.101
 http://150.171.109.148
 http://150.171.109.213
@@ -21805,18 +21814,25 @@ http://150.171.110.17
 http://150.171.110.18
 http://157.230.183.219
 http://157.230.48.129
+http://157.230.8.127
 http://157.230.93.183
+http://157.245.254.11
+http://157.245.80.118
 http://157.245.81.106
+http://157.245.92.215
 http://157.245.95.232
+http://161.35.110.97
 http://161.35.12.222
 http://161.35.121.80
 http://161.35.139.109
 http://161.35.58.238
 http://162.243.169.150
+http://162.243.171.90
 http://165.22.10.12
 http://165.22.176.165
 http://165.22.184.171
 http://165.22.6.177
+http://165.227.47.177
 http://165.227.71.156
 http://167.172.131.125
 http://167.172.149.221
@@ -21831,16 +21847,20 @@ http://167.99.159.28
 http://173.230.150.156
 http://173.255.192.166
 http://173.255.194.65
+http://178.128.159.180
 http://192.241.131.162
 http://192.241.156.251
 http://192.241.156.35
 http://192.241.157.54
+http://192.81.213.101
 http://198.199.71.166
 http://198.211.101.189
+http://198.58.117.231
 http://198.58.119.247
 http://204.48.25.104
 http://206.189.188.121
 http://206.189.189.208
+http://206.189.194.167
 http://206.189.197.5
 http://206.189.203.195
 http://206.81.10.25
