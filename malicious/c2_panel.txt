@@ -1853,6 +1853,7 @@ c2.notfraud.xyz
 103.112.99.119:8443
 
 # TITLE-HOST/IP=Bot Control Panel
+# TITLE-HOST/IP=DARK METRICS
 
 http://95.217.58.56
 104.156.238.176:5000
@@ -1883,6 +1884,7 @@ http://95.217.58.56
 137.184.59.90:8080
 139.180.198.80:5000
 139.180.206.96:5000
+144.31.30.121:443
 144.79.249.202:8080
 146.19.128.211:8084
 148.230.120.207:5000
@@ -1980,6 +1982,10 @@ http://95.217.58.56
 45.77.182.183:5000
 45.77.31.232:5000
 45.77.9.170:5000
+51.75.41.42:443
+51.75.41.47:443
+51.89.232.18:443
+54.37.143.159:443
 57.128.254.70:3000
 62.210.69.104:8000
 66.42.33.1:5000
@@ -1995,10 +2001,15 @@ bottlebot-dashboard.pages.dev
 cheese.kickbot.optehosting.co.uk
 coinstores.org
 control.gvkdot.click
+darkmetrics.space
+darkstatdot.com
 dashboard.yourangels.online
 discordbot.filehost.live
 fansly.space
 guard.lol123love.com
+gvkdot.click
+gvkdot.life
+ip159.ip-54-37-143.eu
 kickpanel.online
 kord-ws.luvhuj.easypanel.host
 kws.kord.live
