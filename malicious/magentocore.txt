@@ -17861,6 +17861,7 @@ http://213.177.179.8
 # Reference: https://x.com/sdcyberresearch/status/2090068947299164511
 
 backlinksindexer.com
+chiarabelli.it
 chkdb.net
 choamthuc.com
 cloudflare.ru.com
