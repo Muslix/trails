@@ -2160,3 +2160,7 @@ zetaypgatewaymuframe.top
 # Reference: https://www.virustotal.com/gui/ip-address/172.67.143.231/relations
 
 villallbos.com
+
+# Reference: https://www.virustotal.com/gui/ip-address/172.67.140.212/relations
+
+htrmiston.org
